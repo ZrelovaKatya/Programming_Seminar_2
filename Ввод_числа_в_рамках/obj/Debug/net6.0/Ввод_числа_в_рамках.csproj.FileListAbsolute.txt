@@ -1,0 +1,15 @@
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\Ввод_числа_в_рамках\bin\Debug\net6.0\Ввод_числа_в_рамках.exe
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\Ввод_числа_в_рамках\bin\Debug\net6.0\Ввод_числа_в_рамках.deps.json
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\Ввод_числа_в_рамках\bin\Debug\net6.0\Ввод_числа_в_рамках.runtimeconfig.json
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\Ввод_числа_в_рамках\bin\Debug\net6.0\Ввод_числа_в_рамках.dll
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\Ввод_числа_в_рамках\bin\Debug\net6.0\Ввод_числа_в_рамках.pdb
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\Ввод_числа_в_рамках\obj\Debug\net6.0\Ввод_числа_в_рамках.csproj.AssemblyReference.cache
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\Ввод_числа_в_рамках\obj\Debug\net6.0\Ввод_числа_в_рамках.GeneratedMSBuildEditorConfig.editorconfig
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\Ввод_числа_в_рамках\obj\Debug\net6.0\Ввод_числа_в_рамках.AssemblyInfoInputs.cache
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\Ввод_числа_в_рамках\obj\Debug\net6.0\Ввод_числа_в_рамках.AssemblyInfo.cs
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\Ввод_числа_в_рамках\obj\Debug\net6.0\Ввод_числа_в_рамках.csproj.CoreCompileInputs.cache
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\Ввод_числа_в_рамках\obj\Debug\net6.0\Ввод_числа_в_рамках.dll
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\Ввод_числа_в_рамках\obj\Debug\net6.0\refint\Ввод_числа_в_рамках.dll
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\Ввод_числа_в_рамках\obj\Debug\net6.0\Ввод_числа_в_рамках.pdb
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\Ввод_числа_в_рамках\obj\Debug\net6.0\Ввод_числа_в_рамках.genruntimeconfig.cache
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\Ввод_числа_в_рамках\obj\Debug\net6.0\ref\Ввод_числа_в_рамках.dll

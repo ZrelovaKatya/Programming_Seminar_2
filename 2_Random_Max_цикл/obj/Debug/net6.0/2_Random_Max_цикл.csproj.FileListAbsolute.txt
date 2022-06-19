@@ -1,0 +1,15 @@
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\2_Random_Max_цикл\bin\Debug\net6.0\2_Random_Max_цикл.exe
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\2_Random_Max_цикл\bin\Debug\net6.0\2_Random_Max_цикл.deps.json
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\2_Random_Max_цикл\bin\Debug\net6.0\2_Random_Max_цикл.runtimeconfig.json
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\2_Random_Max_цикл\bin\Debug\net6.0\2_Random_Max_цикл.dll
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\2_Random_Max_цикл\bin\Debug\net6.0\2_Random_Max_цикл.pdb
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\2_Random_Max_цикл\obj\Debug\net6.0\2_Random_Max_цикл.csproj.AssemblyReference.cache
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\2_Random_Max_цикл\obj\Debug\net6.0\2_Random_Max_цикл.GeneratedMSBuildEditorConfig.editorconfig
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\2_Random_Max_цикл\obj\Debug\net6.0\2_Random_Max_цикл.AssemblyInfoInputs.cache
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\2_Random_Max_цикл\obj\Debug\net6.0\2_Random_Max_цикл.AssemblyInfo.cs
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\2_Random_Max_цикл\obj\Debug\net6.0\2_Random_Max_цикл.csproj.CoreCompileInputs.cache
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\2_Random_Max_цикл\obj\Debug\net6.0\2_Random_Max_цикл.dll
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\2_Random_Max_цикл\obj\Debug\net6.0\refint\2_Random_Max_цикл.dll
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\2_Random_Max_цикл\obj\Debug\net6.0\2_Random_Max_цикл.pdb
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\2_Random_Max_цикл\obj\Debug\net6.0\2_Random_Max_цикл.genruntimeconfig.cache
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\2_Random_Max_цикл\obj\Debug\net6.0\ref\2_Random_Max_цикл.dll

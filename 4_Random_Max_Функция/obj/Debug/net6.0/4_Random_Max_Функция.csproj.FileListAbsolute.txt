@@ -1,0 +1,15 @@
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\4_Random_Max_Функция\obj\Debug\net6.0\4_Random_Max_Функция.csproj.AssemblyReference.cache
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\4_Random_Max_Функция\obj\Debug\net6.0\4_Random_Max_Функция.GeneratedMSBuildEditorConfig.editorconfig
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\4_Random_Max_Функция\obj\Debug\net6.0\4_Random_Max_Функция.AssemblyInfoInputs.cache
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\4_Random_Max_Функция\obj\Debug\net6.0\4_Random_Max_Функция.AssemblyInfo.cs
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\4_Random_Max_Функция\obj\Debug\net6.0\4_Random_Max_Функция.csproj.CoreCompileInputs.cache
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\4_Random_Max_Функция\bin\Debug\net6.0\4_Random_Max_Функция.exe
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\4_Random_Max_Функция\bin\Debug\net6.0\4_Random_Max_Функция.deps.json
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\4_Random_Max_Функция\bin\Debug\net6.0\4_Random_Max_Функция.runtimeconfig.json
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\4_Random_Max_Функция\bin\Debug\net6.0\4_Random_Max_Функция.dll
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\4_Random_Max_Функция\bin\Debug\net6.0\4_Random_Max_Функция.pdb
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\4_Random_Max_Функция\obj\Debug\net6.0\4_Random_Max_Функция.dll
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\4_Random_Max_Функция\obj\Debug\net6.0\refint\4_Random_Max_Функция.dll
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\4_Random_Max_Функция\obj\Debug\net6.0\4_Random_Max_Функция.pdb
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\4_Random_Max_Функция\obj\Debug\net6.0\4_Random_Max_Функция.genruntimeconfig.cache
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\4_Random_Max_Функция\obj\Debug\net6.0\ref\4_Random_Max_Функция.dll

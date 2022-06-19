@@ -1,0 +1,15 @@
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\6_2num_1n\2n\bin\Debug\net6.0\2n.exe
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\6_2num_1n\2n\bin\Debug\net6.0\2n.deps.json
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\6_2num_1n\2n\bin\Debug\net6.0\2n.runtimeconfig.json
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\6_2num_1n\2n\bin\Debug\net6.0\2n.dll
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\6_2num_1n\2n\bin\Debug\net6.0\2n.pdb
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\6_2num_1n\2n\obj\Debug\net6.0\2n.csproj.AssemblyReference.cache
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\6_2num_1n\2n\obj\Debug\net6.0\2n.GeneratedMSBuildEditorConfig.editorconfig
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\6_2num_1n\2n\obj\Debug\net6.0\2n.AssemblyInfoInputs.cache
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\6_2num_1n\2n\obj\Debug\net6.0\2n.AssemblyInfo.cs
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\6_2num_1n\2n\obj\Debug\net6.0\2n.csproj.CoreCompileInputs.cache
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\6_2num_1n\2n\obj\Debug\net6.0\2n.dll
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\6_2num_1n\2n\obj\Debug\net6.0\refint\2n.dll
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\6_2num_1n\2n\obj\Debug\net6.0\2n.pdb
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\6_2num_1n\2n\obj\Debug\net6.0\2n.genruntimeconfig.cache
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\6_2num_1n\2n\obj\Debug\net6.0\ref\2n.dll

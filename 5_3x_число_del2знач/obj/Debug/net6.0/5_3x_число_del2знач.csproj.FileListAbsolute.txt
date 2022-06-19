@@ -1,0 +1,15 @@
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\5_3x_число_del2знач\bin\Debug\net6.0\5_3x_число_del2знач.exe
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\5_3x_число_del2знач\bin\Debug\net6.0\5_3x_число_del2знач.deps.json
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\5_3x_число_del2знач\bin\Debug\net6.0\5_3x_число_del2знач.runtimeconfig.json
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\5_3x_число_del2знач\bin\Debug\net6.0\5_3x_число_del2знач.dll
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\5_3x_число_del2знач\bin\Debug\net6.0\5_3x_число_del2знач.pdb
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\5_3x_число_del2знач\obj\Debug\net6.0\5_3x_число_del2знач.csproj.AssemblyReference.cache
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\5_3x_число_del2знач\obj\Debug\net6.0\5_3x_число_del2знач.GeneratedMSBuildEditorConfig.editorconfig
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\5_3x_число_del2знач\obj\Debug\net6.0\5_3x_число_del2знач.AssemblyInfoInputs.cache
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\5_3x_число_del2знач\obj\Debug\net6.0\5_3x_число_del2знач.AssemblyInfo.cs
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\5_3x_число_del2знач\obj\Debug\net6.0\5_3x_число_del2знач.csproj.CoreCompileInputs.cache
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\5_3x_число_del2знач\obj\Debug\net6.0\5_3x_число_del2знач.dll
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\5_3x_число_del2знач\obj\Debug\net6.0\refint\5_3x_число_del2знач.dll
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\5_3x_число_del2знач\obj\Debug\net6.0\5_3x_число_del2знач.pdb
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\5_3x_число_del2знач\obj\Debug\net6.0\5_3x_число_del2знач.genruntimeconfig.cache
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Seminar_2\5_3x_число_del2знач\obj\Debug\net6.0\ref\5_3x_число_del2знач.dll
